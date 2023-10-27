@@ -1,0 +1,9 @@
+title: Wooden Topographical Map
+description: >- # this means to ignore newlines until "baseurl:"
+  Instructions on how to generate the files required to laser cut a wooden
+  topographical map, complete with streets, train lines, water features, and
+  whatever else may be of interest.
+github_username:  ARamsey118
+
+# Build settings
+theme: jekyll-theme-midnight
