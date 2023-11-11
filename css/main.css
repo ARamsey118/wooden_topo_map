@@ -1,0 +1,12 @@
+/* fix in-page anchors to not be behind fixed header */
+:target:before {
+    content: "";
+    display: block;
+    height: 70px; /* navbar height */
+    margin: -70px 0 0;
+}
+
+/* decrease padding so there's less weird whitespace */
+code {
+  padding: 0px;
+}
